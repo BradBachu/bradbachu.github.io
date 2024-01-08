@@ -1,0 +1,187 @@
+
+header.top 
+{
+	margin: 		  20px 200px 20px 200px ;
+   border: 5px solid;
+	height: 		  200px;
+	font-size: 		  large;
+	font-family: 	  sans-serif;
+	text-align: 	  center;
+}
+
+body
+{
+   font-family:     sans-serif;
+}
+
+/*.container{
+      width:80%;
+      margin:auto;
+}
+*/
+nav
+{
+   margin:          10px 10px 0px 10px;
+   text-align: center;
+}
+
+nav ul
+{
+   margin: 0px;
+   list-style-type: none;
+   padding: 5px 0px 5px 0px;
+}
+
+nav ul li
+{
+   display: inline;
+   padding: 5px 10px 5px 10px;
+}
+
+nav ul li a:link, nav ul li a:visted
+{
+   color: #efe5d0;
+   border-bottom: none;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+nav ul li.selected
+{
+   background-color: #efe5d0;
+}
+
+div#tableContainer 
+{
+   display: table;
+   border-spacing: 10px;
+}
+
+div.tableRow 
+{
+   display: table-row;
+}
+
+section#main 
+{
+   font-size: larger;
+}
+section#quicklinks 
+{
+    display: table-cell;
+    border-right: 2px solid;
+    width: 20%;
+    vertical-align: top;
+}
+
+aside 
+{
+  display: table-cell;
+  border-left: 2px solid;
+  padding:          15px;
+  vertical-align: top;
+}
+
+section.leftColBrief
+{
+  display: table-cell;
+  vertical-align: top;
+  text-align: right;
+  width: 20%;
+
+}
+
+.leftColBrief h1
+{
+  font-size:        120%;
+  color:            #954b4b;
+}
+
+.leftColBrief h2
+{
+  font-size:        120%;
+  color:            #954b4b;
+}
+
+.leftColBrief h3
+{
+  font-size:        120%;
+  color:            #954b4b;
+}
+
+section.rightColDescription
+{
+  display: table-cell;
+  vertical-align: top;
+  text-align: left;
+  font-size: larger;
+  width: 50%;
+}
+
+/*
+header.top img#propic
+{
+   float: left;
+}
+*/
+
+
+
+
+/*
+section#quicklinks 
+{
+    display: table-cell;
+    background-color: #efe5d0;
+    width: 20%;
+    padding: 15px;
+    vertical-align: top;
+}
+
+section#main, section#blog 
+{
+  display: table-cell;
+  background:       #efe5d0 url(images/background.gif) top left;
+  font-size:        105%;
+  padding:          15px;
+  vertical-align: top;
+}
+
+aside 
+{
+  display: table-cell;
+  background:       #efe5d0 url(images/background.gif) bottom right;
+  font-size:        105%;
+  padding:          15px;
+  vertical-align: top;
+}
+
+h1 {
+  font-size:        120%;
+  color:            #954b4b;
+}
+
+h2 { font-size: 110%; }
+
+a:link {
+  color:            #b76666;
+  text-decoration:  none;
+  border-bottom:    thin dotted #b76666;
+}
+a:visited {
+  color:            #675c47;
+  text-decoration:  none;
+  border-bottom:    thin dotted #675c47;
+}
+
+*/
+
+footer 
+{
+	/*background-color: #161DBB;*/
+	/*color:			  #efe5d0;*/
+	text-align: 	  center;
+	padding:	      15px;
+	margin:			  0px 10px 10px 10px;
+	font-size:        90%;
+}

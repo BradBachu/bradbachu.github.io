@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Intention</title>
+        <link>https://bradbachu.droppages.net//</link>
+        <language>en-us</language>
+        <copyright>&#169; 2022 Brad Bachu</copyright>
+        <itunes:author>Brad Bachu</itunes:author>
+        <description>
+          <!-- Discussions with friends. -->
+          Join me as I uncover the journeys of remarkable people.
+          Throughout my career, I have been lucky to cross paths with many amazing individuals. In this podcast, I hope to dig deeper into their stories and learn more about how they got to where they are today. 
+          I hope that every episode provides a unique perspective and leaves us with something to think about. 
+        </description>
+        <itunes:owner>
+          <itunes:name>Brad Bachu</itunes:name>
+          <itunes:email>bradbachupodcast@gmail.com</itunes:email>
+        </itunes:owner>
+        <email>bradbachupodcast@gmail.com</email>
+        <itunes:image href="https://bradbachu.droppages.net/intention_image.jpg"/>
+        <googleplay:owner>bradbachupodcast@gmail.com</googleplay:owner>
+        <googleplay:author>Brad Bachu</googleplay:author>
+        <googleplay:image href="https://bradbachu.droppages.net/intention_image.jpg"/>
+        <itunes:category text="Business">
+          <itunes:category text="Careers"/>
+        </itunes:category>
+        <itunes:explicit>yes</itunes:explicit>
+        
+<!--         <item>
+          <title>E6: Nikhil Buduma</title>
+          <itunes:title>E6: Nikhil Buduma</itunes:title>
+          <description><![CDATA[ <p>All debt and no tech, solving problems, and responding to life.</p>
+
+<p>__</p>
+
+<p>Nikhil’s books: <a href="https://www.oreilly.com/pub/au/6389">https://www.oreilly.com/pub/au/6389</a></p>
+
+<p>Nikhil’s company: <a href="https://ambiencehealthcare.com/">https://ambiencehealthcare.com/</a></p>
+
+<p>Early exposure: <a href="https://www.mercurynews.com/2013/08/05/san-jose-student-wins-gold-at-international-biology-olympiad/">https://www.mercurynews.com/2013/08/05/san-jose-student-wins-gold-at-international-biology-olympiad/</a></p>
+
+<p>How we met: <a href="https://www.nbcnews.com/feature/college-game-plan/mit-students-use-their-smarts-create-texting-hotline-prevents-suicide-n528796">https://www.nbcnews.com/feature/college-game-plan/mit-students-use-their-smarts-create-texting-hotline-prevents-suicide-n528796</a></p>
+
+<p>Your Name: <a href="https://www.imdb.com/title/tt5311514/">https://www.imdb.com/title/tt5311514/</a></p>
+
+<p>No Country For Old Men: <a href="https://www.imdb.com/title/tt0477348/">https://www.imdb.com/title/tt0477348/</a></p>
+
+<p>Anish Athalye: <a href="https://www.linkedin.com/in/anishathalye">https://www.linkedin.com/in/anishathalye</a></p>
+
+<p>Marjorie Liu: <a href="https://en.wikipedia.org/wiki/Marjorie_Liu">https://en.wikipedia.org/wiki/Marjorie_Liu</a></p>
+
+<p>Bill Gates documentary (Nikhil’s book has a cameo appearance): <a href="https://www.youtube.com/watch?v=aCv29JKmHNY">https://www.youtube.com/watch?v=aCv29JKmHNY</a></p>
+
+<p>Data science in baseball: <a href="https://en.wikipedia.org/wiki/Moneyball">https://en.wikipedia.org/wiki/Moneyball</a></p>
+
+<p>GPT-3: <a href="https://en.wikipedia.org/wiki/GPT-3">https://en.wikipedia.org/wiki/GPT-3</a></p>
+
+<p>Codex: <a href="https://openai.com/blog/openai-codex/">https://openai.com/blog/openai-codex/</a></p>
+
+<p>Who hiring book: <a href="https://whothebook.com/">https://whothebook.com/</a></p>
+ ]]></description>
+          <itunes:summary><![CDATA[ <p>All debt and no tech, solving problems, and responding to life.</p>
+
+<p>__</p>
+
+<p>Nikhil’s books: <a href="https://www.oreilly.com/pub/au/6389">https://www.oreilly.com/pub/au/6389</a></p>
+
+<p>Nikhil’s company: <a href="https://ambiencehealthcare.com/">https://ambiencehealthcare.com/</a></p>
+
+<p>Early exposure: <a href="https://www.mercurynews.com/2013/08/05/san-jose-student-wins-gold-at-international-biology-olympiad/">https://www.mercurynews.com/2013/08/05/san-jose-student-wins-gold-at-international-biology-olympiad/</a></p>
+
+<p>How we met: <a href="https://www.nbcnews.com/feature/college-game-plan/mit-students-use-their-smarts-create-texting-hotline-prevents-suicide-n528796">https://www.nbcnews.com/feature/college-game-plan/mit-students-use-their-smarts-create-texting-hotline-prevents-suicide-n528796</a></p>
+
+<p>Your Name: <a href="https://www.imdb.com/title/tt5311514/">https://www.imdb.com/title/tt5311514/</a></p>
+
+<p>No Country For Old Men: <a href="https://www.imdb.com/title/tt0477348/">https://www.imdb.com/title/tt0477348/</a></p>
+
+<p>Anish Athalye: <a href="https://www.linkedin.com/in/anishathalye">https://www.linkedin.com/in/anishathalye</a></p>
+
+<p>Marjorie Liu: <a href="https://en.wikipedia.org/wiki/Marjorie_Liu">https://en.wikipedia.org/wiki/Marjorie_Liu</a></p>
+
+<p>Bill Gates documentary (Nikhil’s book has a cameo appearance): <a href="https://www.youtube.com/watch?v=aCv29JKmHNY">https://www.youtube.com/watch?v=aCv29JKmHNY</a></p>
+
+<p>Data science in baseball: <a href="https://en.wikipedia.org/wiki/Moneyball">https://en.wikipedia.org/wiki/Moneyball</a></p>
+
+<p>GPT-3: <a href="https://en.wikipedia.org/wiki/GPT-3">https://en.wikipedia.org/wiki/GPT-3</a></p>
+
+<p>Codex: <a href="https://openai.com/blog/openai-codex/">https://openai.com/blog/openai-codex/</a></p>
+
+<p>Who hiring book: <a href="https://whothebook.com/">https://whothebook.com/</a></p>
+ ]]></itunes:summary>
+          <content:encoded><![CDATA[ <p>All debt and no tech, solving problems, and responding to life.</p>
+
+<p>__</p>
+
+<p>Nikhil’s books: <a href="https://www.oreilly.com/pub/au/6389">https://www.oreilly.com/pub/au/6389</a></p>
+
+<p>Nikhil’s company: <a href="https://ambiencehealthcare.com/">https://ambiencehealthcare.com/</a></p>
+
+<p>Early exposure: <a href="https://www.mercurynews.com/2013/08/05/san-jose-student-wins-gold-at-international-biology-olympiad/">https://www.mercurynews.com/2013/08/05/san-jose-student-wins-gold-at-international-biology-olympiad/</a></p>
+
+<p>How we met: <a href="https://www.nbcnews.com/feature/college-game-plan/mit-students-use-their-smarts-create-texting-hotline-prevents-suicide-n528796">https://www.nbcnews.com/feature/college-game-plan/mit-students-use-their-smarts-create-texting-hotline-prevents-suicide-n528796</a></p>
+
+<p>Your Name: <a href="https://www.imdb.com/title/tt5311514/">https://www.imdb.com/title/tt5311514/</a></p>
+
+<p>No Country For Old Men: <a href="https://www.imdb.com/title/tt0477348/">https://www.imdb.com/title/tt0477348/</a></p>
+
+<p>Anish Athalye: <a href="https://www.linkedin.com/in/anishathalye">https://www.linkedin.com/in/anishathalye</a></p>
+
+<p>Marjorie Liu: <a href="https://en.wikipedia.org/wiki/Marjorie_Liu">https://en.wikipedia.org/wiki/Marjorie_Liu</a></p>
+
+<p>Bill Gates documentary (Nikhil’s book has a cameo appearance): <a href="https://www.youtube.com/watch?v=aCv29JKmHNY">https://www.youtube.com/watch?v=aCv29JKmHNY</a></p>
+
+<p>Data science in baseball: <a href="https://en.wikipedia.org/wiki/Moneyball">https://en.wikipedia.org/wiki/Moneyball</a></p>
+
+<p>GPT-3: <a href="https://en.wikipedia.org/wiki/GPT-3">https://en.wikipedia.org/wiki/GPT-3</a></p>
+
+<p>Codex: <a href="https://openai.com/blog/openai-codex/">https://openai.com/blog/openai-codex/</a></p>
+
+<p>Who hiring book: <a href="https://whothebook.com/">https://whothebook.com/</a></p>
+ ]]></content:encoded>
+          <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+          <enclosure url="https://ia902505.us.archive.org/11/items/nikhil-v1/nikhil-v1.mp3"
+                     type="audio/mpeg" length="2575.7291458333334"/>
+          <itunes:duration>42:56</itunes:duration>
+          <guid>https://theandypod.com/2022/05/24/ep6-nikhil.html</guid>
+          <link>https://theandypod.com/</link>
+        </item>
+        
+        <item>
+          <title>E5: Arun Prasad</title>
+          <itunes:title>E5: Arun Prasad</itunes:title>
+          <description><![CDATA[ <p>Bringing thought, word, and deed into alignment.</p>
+
+<p>__</p>
+
+<p>Arun’s first Hacker News post: <a href="https://arunkprasad.com/log/on-my-incandescent-hacker-news-stardom/">https://arunkprasad.com/log/on-my-incandescent-hacker-news-stardom/</a></p>
+
+<p>Writing as a tool for thinking: <a href="http://paulgraham.com/words.html">http://paulgraham.com/words.html</a></p>
+
+<p>Timing App: <a href="https://timingapp.com/">https://timingapp.com/</a></p>
+
+<p>Arun on Perfectionism (how we met): <a href="https://arunkprasad.com/log/unlearning-perfectionism/">https://arunkprasad.com/log/unlearning-perfectionism/</a></p>
+
+<p>The Mind Illuminated: <a href="https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985">https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985</a></p>
+
+<p>SF Zen Center: <a href="https://www.sfzc.org/">https://www.sfzc.org/</a></p>
+ ]]></description>
+          <itunes:summary><![CDATA[ <p>Bringing thought, word, and deed into alignment.</p>
+
+<p>__</p>
+
+<p>Arun’s first Hacker News post: <a href="https://arunkprasad.com/log/on-my-incandescent-hacker-news-stardom/">https://arunkprasad.com/log/on-my-incandescent-hacker-news-stardom/</a></p>
+
+<p>Writing as a tool for thinking: <a href="http://paulgraham.com/words.html">http://paulgraham.com/words.html</a></p>
+
+<p>Timing App: <a href="https://timingapp.com/">https://timingapp.com/</a></p>
+
+<p>Arun on Perfectionism (how we met): <a href="https://arunkprasad.com/log/unlearning-perfectionism/">https://arunkprasad.com/log/unlearning-perfectionism/</a></p>
+
+<p>The Mind Illuminated: <a href="https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985">https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985</a></p>
+
+<p>SF Zen Center: <a href="https://www.sfzc.org/">https://www.sfzc.org/</a></p>
+ ]]></itunes:summary>
+          <content:encoded><![CDATA[ <p>Bringing thought, word, and deed into alignment.</p>
+
+<p>__</p>
+
+<p>Arun’s first Hacker News post: <a href="https://arunkprasad.com/log/on-my-incandescent-hacker-news-stardom/">https://arunkprasad.com/log/on-my-incandescent-hacker-news-stardom/</a></p>
+
+<p>Writing as a tool for thinking: <a href="http://paulgraham.com/words.html">http://paulgraham.com/words.html</a></p>
+
+<p>Timing App: <a href="https://timingapp.com/">https://timingapp.com/</a></p>
+
+<p>Arun on Perfectionism (how we met): <a href="https://arunkprasad.com/log/unlearning-perfectionism/">https://arunkprasad.com/log/unlearning-perfectionism/</a></p>
+
+<p>The Mind Illuminated: <a href="https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985">https://www.amazon.com/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1501156985</a></p>
+
+<p>SF Zen Center: <a href="https://www.sfzc.org/">https://www.sfzc.org/</a></p>
+ ]]></content:encoded>
+          <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+          <enclosure url="https://ia802509.us.archive.org/3/items/arun-ep-5-v2/arun-ep-5-v2.mp3"
+                     type="audio/mpeg" length="3197.208125"/>
+          <itunes:duration>53:27</itunes:duration>
+          <guid>https://theandypod.com/2022/04/08/ep5-arun.html</guid>
+          <link>https://theandypod.com/</link>
+        </item>
+        
+        <item>
+          <title>E4: Alexis Sirkin and Lucas Kasle</title>
+          <itunes:title>E4: Alexis Sirkin and Lucas Kasle</itunes:title>
+          <description><![CDATA[ <p>Prepping for a big American road trip.</p>
+
+<p>__</p>
+
+<p>Camp: <a href="https://marimeta.com/">https://marimeta.com/</a></p>
+
+<p>Zion National Park Utah: <a href="https://www.nps.gov/zion/index.htm">https://www.nps.gov/zion/index.htm</a></p>
+
+<p>White Sands National Park New Mexico: <a href="https://www.nps.gov/whsa/index.htm">https://www.nps.gov/whsa/index.htm</a></p>
+
+<p>Mountain View Arkansas: <a href="https://www.arkansas.com/mountain-view">https://www.arkansas.com/mountain-view</a></p>
+
+<p>Tellico Plains Tennessee and Great Smoky Mountains: <a href="https://www.tellicoplainstn.com/">https://www.tellicoplainstn.com/</a>, <a href="https://www.nps.gov/grsm/index.htm">https://www.nps.gov/grsm/index.htm</a></p>
+
+<p>Mammoth Cave National Park Kentucky: <a href="https://www.nps.gov/maca/index.htm">https://www.nps.gov/maca/index.htm</a></p>
+
+<p>Domes on AirBnb: <a href="https://www.airbnb.com/s/homes?category_tag=Tag%3A8173">https://www.airbnb.com/s/homes?category_tag=Tag%3A8173</a></p>
+ ]]></description>
+          <itunes:summary><![CDATA[ <p>Prepping for a big American road trip.</p>
+
+<p>__</p>
+
+<p>Camp: <a href="https://marimeta.com/">https://marimeta.com/</a></p>
+
+<p>Zion National Park Utah: <a href="https://www.nps.gov/zion/index.htm">https://www.nps.gov/zion/index.htm</a></p>
+
+<p>White Sands National Park New Mexico: <a href="https://www.nps.gov/whsa/index.htm">https://www.nps.gov/whsa/index.htm</a></p>
+
+<p>Mountain View Arkansas: <a href="https://www.arkansas.com/mountain-view">https://www.arkansas.com/mountain-view</a></p>
+
+<p>Tellico Plains Tennessee and Great Smoky Mountains: <a href="https://www.tellicoplainstn.com/">https://www.tellicoplainstn.com/</a>, <a href="https://www.nps.gov/grsm/index.htm">https://www.nps.gov/grsm/index.htm</a></p>
+
+<p>Mammoth Cave National Park Kentucky: <a href="https://www.nps.gov/maca/index.htm">https://www.nps.gov/maca/index.htm</a></p>
+
+<p>Domes on AirBnb: <a href="https://www.airbnb.com/s/homes?category_tag=Tag%3A8173">https://www.airbnb.com/s/homes?category_tag=Tag%3A8173</a></p>
+ ]]></itunes:summary>
+          <content:encoded><![CDATA[ <p>Prepping for a big American road trip.</p>
+
+<p>__</p>
+
+<p>Camp: <a href="https://marimeta.com/">https://marimeta.com/</a></p>
+
+<p>Zion National Park Utah: <a href="https://www.nps.gov/zion/index.htm">https://www.nps.gov/zion/index.htm</a></p>
+
+<p>White Sands National Park New Mexico: <a href="https://www.nps.gov/whsa/index.htm">https://www.nps.gov/whsa/index.htm</a></p>
+
+<p>Mountain View Arkansas: <a href="https://www.arkansas.com/mountain-view">https://www.arkansas.com/mountain-view</a></p>
+
+<p>Tellico Plains Tennessee and Great Smoky Mountains: <a href="https://www.tellicoplainstn.com/">https://www.tellicoplainstn.com/</a>, <a href="https://www.nps.gov/grsm/index.htm">https://www.nps.gov/grsm/index.htm</a></p>
+
+<p>Mammoth Cave National Park Kentucky: <a href="https://www.nps.gov/maca/index.htm">https://www.nps.gov/maca/index.htm</a></p>
+
+<p>Domes on AirBnb: <a href="https://www.airbnb.com/s/homes?category_tag=Tag%3A8173">https://www.airbnb.com/s/homes?category_tag=Tag%3A8173</a></p>
+ ]]></content:encoded>
+          <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+          <enclosure url="https://ia902201.us.archive.org/26/items/ep4-lucas-alexis-v1/ep4-lucas-alexis-v1.mp3"
+                     type="audio/mpeg" length="2853.22975"/>
+          <itunes:duration>47:33</itunes:duration>
+          <guid>https://theandypod.com/2022/03/01/ep4-lucas-alexis.html</guid>
+          <link>https://theandypod.com/</link>
+        </item>
+        
+        <item>
+          <title>E3: Tiger Shen</title>
+          <itunes:title>E3: Tiger Shen</itunes:title>
+          <description><![CDATA[ <p>Reality is the best teacher.</p>
+
+<p>__</p>
+
+<p>4000 Weeks book: <a href="https://smile.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122">https://smile.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122</a></p>
+
+<p>Top 2 Things essay: <a href="https://brettcvz.com/posts/53-managing-product-requests-from-customerfacing-teams-top-2-things">https://brettcvz.com/posts/53-managing-product-requests-from-customerfacing-teams-top-2-things</a></p>
+
+<p>Oliver Burkeman: <a href="https://www.oliverburkeman.com/">https://www.oliverburkeman.com/</a></p>
+
+<p>Interact Community: <a href="https://joininteract.com/">https://joininteract.com/</a></p>
+
+<p>Graham Duncan article - What’s going on here, with this human?: <a href="https://grahamduncan.blog/whats-going-on-here/">https://grahamduncan.blog/whats-going-on-here/</a></p>
+
+<p>Seth Godin on emotional labor: <a href="https://seths.blog/2017/05/emotional-labor/">https://seths.blog/2017/05/emotional-labor/</a>, <a href="https://www.youtube.com/watch?v=PgFf-CvoIJc&amp;t=36s">https://www.youtube.com/watch?v=PgFf-CvoIJc&amp;t=36s</a></p>
+
+<p>Cedric and his -isms: <a href="https://commoncog.com/blog/start-here/">https://commoncog.com/blog/start-here/</a></p>
+
+<p>Welcome Virtual Events: <a href="https://www.experiencewelcome.com/">https://www.experiencewelcome.com/</a></p>
+ ]]></description>
+          <itunes:summary><![CDATA[ <p>Reality is the best teacher.</p>
+
+<p>__</p>
+
+<p>4000 Weeks book: <a href="https://smile.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122">https://smile.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122</a></p>
+
+<p>Top 2 Things essay: <a href="https://brettcvz.com/posts/53-managing-product-requests-from-customerfacing-teams-top-2-things">https://brettcvz.com/posts/53-managing-product-requests-from-customerfacing-teams-top-2-things</a></p>
+
+<p>Oliver Burkeman: <a href="https://www.oliverburkeman.com/">https://www.oliverburkeman.com/</a></p>
+
+<p>Interact Community: <a href="https://joininteract.com/">https://joininteract.com/</a></p>
+
+<p>Graham Duncan article - What’s going on here, with this human?: <a href="https://grahamduncan.blog/whats-going-on-here/">https://grahamduncan.blog/whats-going-on-here/</a></p>
+
+<p>Seth Godin on emotional labor: <a href="https://seths.blog/2017/05/emotional-labor/">https://seths.blog/2017/05/emotional-labor/</a>, <a href="https://www.youtube.com/watch?v=PgFf-CvoIJc&amp;t=36s">https://www.youtube.com/watch?v=PgFf-CvoIJc&amp;t=36s</a></p>
+
+<p>Cedric and his -isms: <a href="https://commoncog.com/blog/start-here/">https://commoncog.com/blog/start-here/</a></p>
+
+<p>Welcome Virtual Events: <a href="https://www.experiencewelcome.com/">https://www.experiencewelcome.com/</a></p>
+ ]]></itunes:summary>
+          <content:encoded><![CDATA[ <p>Reality is the best teacher.</p>
+
+<p>__</p>
+
+<p>4000 Weeks book: <a href="https://smile.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122">https://smile.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122</a></p>
+
+<p>Top 2 Things essay: <a href="https://brettcvz.com/posts/53-managing-product-requests-from-customerfacing-teams-top-2-things">https://brettcvz.com/posts/53-managing-product-requests-from-customerfacing-teams-top-2-things</a></p>
+
+<p>Oliver Burkeman: <a href="https://www.oliverburkeman.com/">https://www.oliverburkeman.com/</a></p>
+
+<p>Interact Community: <a href="https://joininteract.com/">https://joininteract.com/</a></p>
+
+<p>Graham Duncan article - What’s going on here, with this human?: <a href="https://grahamduncan.blog/whats-going-on-here/">https://grahamduncan.blog/whats-going-on-here/</a></p>
+
+<p>Seth Godin on emotional labor: <a href="https://seths.blog/2017/05/emotional-labor/">https://seths.blog/2017/05/emotional-labor/</a>, <a href="https://www.youtube.com/watch?v=PgFf-CvoIJc&amp;t=36s">https://www.youtube.com/watch?v=PgFf-CvoIJc&amp;t=36s</a></p>
+
+<p>Cedric and his -isms: <a href="https://commoncog.com/blog/start-here/">https://commoncog.com/blog/start-here/</a></p>
+
+<p>Welcome Virtual Events: <a href="https://www.experiencewelcome.com/">https://www.experiencewelcome.com/</a></p>
+ ]]></content:encoded>
+          <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+          <enclosure url="https://ia902208.us.archive.org/30/items/tiger-v1/tiger-v2.mp3"
+                     type="audio/mpeg" length="1893.7529166666666"/>
+          <itunes:duration>31:34</itunes:duration>
+          <guid>https://theandypod.com/2022/02/08/ep3-tiger.html</guid>
+          <link>https://theandypod.com/</link>
+        </item>
+        
+        <item>
+          <title>E2: Brad Bachu</title>
+          <itunes:title>E2: Brad Bachu</itunes:title>
+          <description><![CDATA[ <p>On transitioning from academia to industry with a theoretical physics PhD.</p>
+
+<p>__</p>
+
+<p>7 Strategies for Wealth and Happiness book: <a href="https://www.amazon.com/Strategies-Wealth-Happiness-Americas-Philosopher/dp/0761506160">https://smile.amazon.com/Strategies-Wealth-Happiness-Americas-Philosopher/dp/0761506160</a></p>
+
+<p>Atomic Habits book: <a href="https://jamesclear.com/atomic-habits">https://jamesclear.com/atomic-habits</a></p>
+
+<p>Deep Work book: <a href="https://www.calnewport.com/books/deep-work/">https://www.calnewport.com/books/deep-work/</a></p>
+
+<p>Mexican Hat Potential: <a href="https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking#Sombrero_potential">https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking#Sombrero_potential</a></p>
+
+<p>Brad’s Website: <a href="https://bradbachu.droppages.net/index.html">https://bradbachu.droppages.net/index.html</a></p>
+ ]]></description>
+          <itunes:summary><![CDATA[ <p>On transitioning from academia to industry with a theoretical physics PhD.</p>
+
+<p>__</p>
+
+<p>7 Strategies for Wealth and Happiness book: <a href="https://www.amazon.com/Strategies-Wealth-Happiness-Americas-Philosopher/dp/0761506160">https://smile.amazon.com/Strategies-Wealth-Happiness-Americas-Philosopher/dp/0761506160</a></p>
+
+<p>Atomic Habits book: <a href="https://jamesclear.com/atomic-habits">https://jamesclear.com/atomic-habits</a></p>
+
+<p>Deep Work book: <a href="https://www.calnewport.com/books/deep-work/">https://www.calnewport.com/books/deep-work/</a></p>
+
+<p>Mexican Hat Potential: <a href="https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking#Sombrero_potential">https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking#Sombrero_potential</a></p>
+
+<p>Brad’s Website: <a href="https://bradbachu.droppages.net/index.html">https://bradbachu.droppages.net/index.html</a></p>
+ ]]></itunes:summary>
+          <content:encoded><![CDATA[ <p>On transitioning from academia to industry with a theoretical physics PhD.</p>
+
+<p>__</p>
+
+<p>7 Strategies for Wealth and Happiness book: <a href="https://www.amazon.com/Strategies-Wealth-Happiness-Americas-Philosopher/dp/0761506160">https://smile.amazon.com/Strategies-Wealth-Happiness-Americas-Philosopher/dp/0761506160</a></p>
+
+<p>Atomic Habits book: <a href="https://jamesclear.com/atomic-habits">https://jamesclear.com/atomic-habits</a></p>
+
+<p>Deep Work book: <a href="https://www.calnewport.com/books/deep-work/">https://www.calnewport.com/books/deep-work/</a></p>
+
+<p>Mexican Hat Potential: <a href="https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking#Sombrero_potential">https://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking#Sombrero_potential</a></p>
+
+<p>Brad’s Website: <a href="https://bradbachu.droppages.net/index.html">https://bradbachu.droppages.net/index.html</a></p>
+ ]]></content:encoded>
+          <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+          <enclosure url="https://ia803100.us.archive.org/27/items/ep2-brad/ep2-brad.mp3"
+                     type="audio/mpeg" length="3119.5420416666666"/>
+          <itunes:duration>52:00</itunes:duration>
+          <guid>https://theandypod.com/2022/02/03/ep2-brad.html</guid>
+          <link>https://theandypod.com/</link>
+        </item>
+         -->
+<item>
+	<title>E1: Brad Chattergoon: Try Everything Twice</title>
+	<itunes:title>E1: Brad Chattergoon: Try Everything Twice</itunes:title>
+
+	<description>
+  		<![CDATA[ 
+  			<p>Getting lucky, opportunity costs, and economics.</p>
+
+			<p>__</p>
+
+			<p>A conversation with Brad Chattergoon, currently a analyst at a private equity firm. </p>
+
+			<p> We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success. </p>
+	 	]]> 
+	</description>
+
+	<itunes:summary>
+		<![CDATA[ 
+			<p>Getting lucky, opportunity costs, and economics.</p>
+
+			<p>__</p>
+			<p>A conversation with Brad Chattergoon, currently a analyst at a private equity firm. </p>
+
+			<p> We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success. </p>
+		 ]]>
+	</itunes:summary>
+
+    <content:encoded>
+    	<![CDATA[ 
+    		<p>Getting lucky, opportunity costs, and economics.</p>
+
+			<p>__</p>
+
+			<p>A conversation with Brad Chattergoon, currently a analyst at a private equity firm. </p>
+
+			<p> We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success. </p>
+
+		]]>
+	</content:encoded>
+
+    <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+    <enclosure url="https://ia601500.us.archive.org/35/items/brad-bachu-brad-chattergoon/BradBachu_BradChattergoon.mp3"
+                     type="audio/mpeg" length="116245336"/>
+    <itunes:duration>1:37:52</itunes:duration>
+    <guid>https://ia601500.us.archive.org/35/items/brad-bachu-brad-chattergoon/BradBachu_BradChattergoon.mp3</guid>
+    <link>https://bradbachu.droppages.net/</link>
+</item>
+
+
+
+<item>
+	<title>E2: Diego Huyke: More than an Engineer</title>
+	<itunes:title>E2: Diego Huyke: More than an Engineer</itunes:title>
+
+	<description>
+  		<![CDATA[ 
+  			<p>Getting into MIT, mechanical engineering, micro fluidics, research.</p>
+
+			<p>__</p>
+
+			<p>A conversation with Diego Huyke, currently a consultant at Bain and Company. </p>
+
+			<p> We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>
+	 	]]> 
+	</description>
+
+	<itunes:summary>
+		<![CDATA[ 
+  			<p>Getting into MIT, mechanical engineering, micro fluidics, research.</p>
+
+			<p>__</p>
+
+			<p>A conversation with Diego Huyke, currently a consultant at Bain and Company. </p>
+
+			<p> We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>
+		 ]]>
+	</itunes:summary>
+
+    <content:encoded>
+    	<![CDATA[ 
+  			<p>Getting into MIT, mechanical engineering, micro fluidics, research.</p>
+
+			<p>__</p>
+
+			<p>A conversation with Diego Huyke, currently a consultant at Bain and Company. </p>
+
+			<p> We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>
+		]]>
+	</content:encoded>
+
+    <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+    <enclosure url="https://ia601407.us.archive.org/22/items/brad-bachu-diego-huyke/BradBachu_DiegoHuyke.mp3"
+                     type="audio/mpeg" length="51716356"/>
+    <itunes:duration>1:26:11</itunes:duration>
+    <guid>https://ia601407.us.archive.org/22/items/brad-bachu-diego-huyke/BradBachu_DiegoHuyke.mp3</guid>
+    <link>https://bradbachu.droppages.net/</link>
+</item>
+
+</channel>
+</rss>
