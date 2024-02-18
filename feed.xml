@@ -13,10 +13,10 @@
             <itunes:email>bradbachupodcast@gmail.com</itunes:email>
         </itunes:owner>
         <email>bradbachupodcast@gmail.com</email>
-        <itunes:image href="https://bradbachu.droppages.net/intention_image.jpg" />
+        <itunes:image href="https://bradbachu.github.io/intention_image.jpg" />
         <googleplay:owner>bradbachupodcast@gmail.com</googleplay:owner>
         <googleplay:author>Brad Bachu</googleplay:author>
-        <googleplay:image href="https://bradbachu.droppages.net/intention_image.jpg" />
+        <googleplay:image href="https://bradbachu.github.io/intention_image.jpg" />
         <itunes:category text="Business">
             <itunes:category text="Careers" /></itunes:category>
         <itunes:explicit>yes</itunes:explicit>
