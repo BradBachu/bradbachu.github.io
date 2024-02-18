@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Intention</title>
-        <link>https://bradbachu.droppages.net//</link>
+        <link>https://bradbachu.github.io//</link>
         <language>en-us</language>
         <copyright>&#169; 2022 Brad Bachu</copyright>
         <itunes:author>Brad Bachu</itunes:author>
@@ -60,7 +60,7 @@
             <enclosure url="https://ia601500.us.archive.org/35/items/brad-bachu-brad-chattergoon/BradBachu_BradChattergoon.mp3" type="audio/mpeg" length="116245336" />
             <itunes:duration>1:37:52</itunes:duration>
             <guid>https://ia601500.us.archive.org/35/items/brad-bachu-brad-chattergoon/BradBachu_BradChattergoon.mp3</guid>
-            <link>https://bradbachu.droppages.net/</link>
+            <link>https://bradbachu.github.io/</link>
         </item>
         <item>
             <title>E2: Diego Huyke: More than an Engineer</title>
@@ -102,7 +102,7 @@
             <enclosure url="https://ia601407.us.archive.org/22/items/brad-bachu-diego-huyke/BradBachu_DiegoHuyke.mp3" type="audio/mpeg" length="51716356" />
             <itunes:duration>1:26:11</itunes:duration>
             <guid>https://ia601407.us.archive.org/22/items/brad-bachu-diego-huyke/BradBachu_DiegoHuyke.mp3</guid>
-            <link>https://bradbachu.droppages.net/</link>
+            <link>https://bradbachu.github.io/</link>
         </item>
         <item>
             <title>E3: Lyman Page: The Journey of a Cosmic Explorer</title>
@@ -144,7 +144,7 @@
             <enclosure url="https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3" type="audio/mpeg" length="51716356" />
             <itunes:duration>1:41:22</itunes:duration>
             <guid>https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3</guid>
-            <link>https://bradbachu.droppages.net/</link>
+            <link>https://bradbachu.github.io/</link>
         </item>
     </channel>
 </rss>
