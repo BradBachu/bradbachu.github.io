@@ -143,7 +143,7 @@
             <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
             <enclosure url="https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3" type="audio/mpeg" length="51716356" />
             <itunes:duration>1:41:22</itunes:duration>
-            <guid>https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3</guid>
+            <guid>https://ia800408.us.archive.org/4/items/brad-bachu-rachel-katz-2/BradBachu_RachelKatz_2.mp3</guid>
             <link>https://bradbachu.github.io/</link>
         </item>
         <item>
@@ -183,10 +183,10 @@
     ]]>
             </content:encoded>
             <pubDate>Sun, 7 Jul 2024 00:00:00 +0000</pubDate>
-            <enclosure url="https://archive.org/download/brad-bachu-rachel-katz-2/brad-bachu-rachel-katz-2_vbr.mp3" type="audio/mpeg" length="110100480" />
+            <enclosure url="https://archive.org/download/brad-bachu-rachel-katz-2/BradBachu_RachelKatz_2.mp3" type="audio/mpeg" length="110100480" />
 
             <itunes:duration>2:05:05</itunes:duration>
-            <guid>https://archive.org/download/brad-bachu-rachel-katz-2/brad-bachu-rachel-katz-2_vbr.mp3</guid>
+            <guid>https://ia800408.us.archive.org/4/items/brad-bachu-rachel-katz-2/BradBachu_RachelKatz_2.mp3</guid>
             <link>https://bradbachu.github.io/</link>
         </item>
     </channel>
