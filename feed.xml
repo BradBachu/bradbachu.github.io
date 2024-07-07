@@ -2,77 +2,148 @@
 <rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Intention</title>
-        <link>https://bradbachu.github.io/</link>
+        <link>https://bradbachu.github.io//</link>
         <language>en-us</language>
         <copyright>&#169; 2022 Brad Bachu</copyright>
         <itunes:author>Brad Bachu</itunes:author>
-        <description>Join me as I uncover the journeys of remarkable people. Throughout my career, I have been lucky to cross paths with many amazing individuals. In this podcast, I hope to dig deeper into their stories and learn more about how they got to where they are today. I hope that every episode provides a unique perspective and leaves us with something to think about.</description>
+        <description>
+            <!-- Discussions with friends. -->Join me as I uncover the journeys of remarkable people. Throughout my career, I have been lucky to cross paths with many amazing individuals. In this podcast, I hope to dig deeper into their stories and learn more about how they got to where they are today. I hope that every episode provides a unique perspective and leaves us with something to think about.</description>
         <itunes:owner>
             <itunes:name>Brad Bachu</itunes:name>
             <itunes:email>bradbachupodcast@gmail.com</itunes:email>
         </itunes:owner>
+        <email>bradbachupodcast@gmail.com</email>
         <itunes:image href="https://bradbachu.github.io/intention_image.jpg" />
         <googleplay:owner>bradbachupodcast@gmail.com</googleplay:owner>
         <googleplay:author>Brad Bachu</googleplay:author>
         <googleplay:image href="https://bradbachu.github.io/intention_image.jpg" />
         <itunes:category text="Business">
-            <itunes:category text="Careers" />
-        </itunes:category>
+            <itunes:category text="Careers" /></itunes:category>
         <itunes:explicit>yes</itunes:explicit>
-
         <item>
             <title>E1: Brad Chattergoon: Try Everything Twice</title>
             <itunes:title>E1: Brad Chattergoon: Try Everything Twice</itunes:title>
-            <description><![CDATA[<p>Getting lucky, opportunity costs, and economics.</p><p>__</p><p>A conversation with Brad Chattergoon, currently an analyst at a private equity firm. We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success.</p>]]></description>
-            <itunes:summary><![CDATA[<p>Getting lucky, opportunity costs, and economics.</p><p>__</p><p>A conversation with Brad Chattergoon, currently an analyst at a private equity firm. We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success.</p>]]></itunes:summary>
-            <content:encoded><![CDATA[<p>Getting lucky, opportunity costs, and economics.</p><p>__</p><p>A conversation with Brad Chattergoon, currently an analyst at a private equity firm. We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success.</p>]]></content:encoded>
+            <description>
+                <![CDATA[ 
+        <p>Getting lucky, opportunity costs, and economics.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Brad Chattergoon, currently a analyst at a private equity firm. </p>
+
+      <p> We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success. </p>
+    ]]>
+            </description>
+            <itunes:summary>
+                <![CDATA[ 
+      <p>Getting lucky, opportunity costs, and economics.</p>
+
+      <p>__</p>
+      <p>A conversation with Brad Chattergoon, currently a analyst at a private equity firm. </p>
+
+      <p> We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success. </p>
+     ]]>
+            </itunes:summary>
+            <content:encoded>
+                <![CDATA[ 
+        <p>Getting lucky, opportunity costs, and economics.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Brad Chattergoon, currently a analyst at a private equity firm. </p>
+
+      <p> We talk about Brad's journey from Presentation College Chaguanas, to Caltech, Yale, Harvard, and finally a private equity firm. We dig into the ups and downs of what, from the outside, seems like a linear path to success. </p>
+
+    ]]>
+            </content:encoded>
             <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
             <enclosure url="https://ia601500.us.archive.org/35/items/brad-bachu-brad-chattergoon/BradBachu_BradChattergoon.mp3" type="audio/mpeg" length="116245336" />
             <itunes:duration>1:37:52</itunes:duration>
-            <itunes:keywords>lucky, opportunity costs, economics, Brad Chattergoon</itunes:keywords>
             <guid>https://ia601500.us.archive.org/35/items/brad-bachu-brad-chattergoon/BradBachu_BradChattergoon.mp3</guid>
             <link>https://bradbachu.github.io/</link>
         </item>
-
         <item>
             <title>E2: Diego Huyke: More than an Engineer</title>
             <itunes:title>E2: Diego Huyke: More than an Engineer</itunes:title>
-            <description><![CDATA[<p>Getting into MIT, mechanical engineering, micro fluidics, research.</p><p>__</p><p>A conversation with Diego Huyke, currently a consultant at Bain and Company. We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>]]></description>
-            <itunes:summary><![CDATA[<p>Getting into MIT, mechanical engineering, micro fluidics, research.</p><p>__</p><p>A conversation with Diego Huyke, currently a consultant at Bain and Company. We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>]]></itunes:summary>
-            <content:encoded><![CDATA[<p>Getting into MIT, mechanical engineering, micro fluidics, research.</p><p>__</p><p>A conversation with Diego Huyke, currently a consultant at Bain and Company. We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>]]></content:encoded>
+            <description>
+                <![CDATA[ 
+        <p>Getting into MIT, mechanical engineering, micro fluidics, research.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Diego Huyke, currently a consultant at Bain and Company. </p>
+
+      <p> We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>
+    ]]>
+            </description>
+            <itunes:summary>
+                <![CDATA[ 
+        <p>Getting into MIT, mechanical engineering, micro fluidics, research.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Diego Huyke, currently a consultant at Bain and Company. </p>
+
+      <p> We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>
+     ]]>
+            </itunes:summary>
+            <content:encoded>
+                <![CDATA[ 
+        <p>Getting into MIT, mechanical engineering, micro fluidics, research.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Diego Huyke, currently a consultant at Bain and Company. </p>
+
+      <p> We talk about Diego's path from Puerto Rico to MIT, what it took to get there as well as his experience at MIT. We also discuss his time at Stanford, as a PhD candidate researching micro fluidics. Finally, we get into his decision making process of what to do after graduate school.</p>
+    ]]>
+            </content:encoded>
             <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
             <enclosure url="https://ia601407.us.archive.org/22/items/brad-bachu-diego-huyke/BradBachu_DiegoHuyke.mp3" type="audio/mpeg" length="51716356" />
             <itunes:duration>1:26:11</itunes:duration>
-            <itunes:keywords>MIT, mechanical engineering, micro fluidics, Diego Huyke</itunes:keywords>
             <guid>https://ia601407.us.archive.org/22/items/brad-bachu-diego-huyke/BradBachu_DiegoHuyke.mp3</guid>
             <link>https://bradbachu.github.io/</link>
         </item>
-
         <item>
             <title>E3: Lyman Page: The Journey of a Cosmic Explorer</title>
             <itunes:title>E3: Lyman Page: The Journey of a Cosmic Explorer</itunes:title>
-            <description><![CDATA[<p>Princeton physics, Observational Cosmology, Teaching.</p><p>__</p><p>A conversation with Professor Lyman Page, currently the James S. McDonnell Distinguished University Professor of Physics at Princeton University. We talk about his fascination with physics as an undergrad and his unique path to academia, which included a period sailing and self-study after his undergraduate studies. This adventure led him to MIT, where he began working for free before officially joining their graduate program to research experimental cosmology. Page's story continues with his move to Princeton, where he not only advanced his research but also served as department head. Throughout the conversation, he reflects on his teaching approach, the challenge of fostering diversity in physics, and potential strategies to address it. This episode offers a glimpse into the life of a physicist who combines passion for discovery with a commitment to education and inclusivity.</p>]]></description>
-            <itunes:summary><![CDATA[<p>Princeton physics, Observational Cosmology, Teaching.</p><p>__</p><p>A conversation with Professor Lyman Page, currently the James S. McDonnell Distinguished University Professor of Physics at Princeton University. We talk about his fascination with physics as an undergrad and his unique path to academia, which included a period sailing and self-study after his undergraduate studies. This adventure led him to MIT, where he began working for free before officially joining their graduate program to research experimental cosmology. Page's story continues with his move to Princeton, where he not only advanced his research but also served as department head. Throughout the conversation, he reflects on his teaching approach, the challenge of fostering diversity in physics, and potential strategies to address it. This episode offers a glimpse into the life of a physicist who combines passion for discovery with a commitment to education and inclusivity.</p>]]></itunes:summary>
-            <content:encoded><![CDATA[<p>Princeton physics, Observational Cosmology, Teaching.</p><p>__</p><p>A conversation with Professor Lyman Page, currently the James S. McDonnell Distinguished University Professor of Physics at Princeton University. We talk about his fascination with physics as an undergrad and his unique path to academia, which included a period sailing and self-study after his undergraduate studies. This adventure led him to MIT, where he began working for free before officially joining their graduate program to research experimental cosmology. Page's story continues with his move to Princeton, where he not only advanced his research but also served as department head. Throughout the conversation, he reflects on his teaching approach, the challenge of fostering diversity in physics, and potential strategies to address it. This episode offers a glimpse into the life of a physicist who combines passion for discovery with a commitment to education and inclusivity.</p>]]></content:encoded>
+            <description>
+                <![CDATA[ 
+        <p>Princeton physics, Observational Cosmology, Teaching.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Professor Lyman Page, currently the James S. McDonnell Distinguished University Professor of Physics at Princeton University. </p>
+
+      <p> We talk about his fascination with physics as an undergrad and his unique path to academia, which included a period sailing and self-study after his undergraduate studies. This adventure led him to MIT, where he began working for free before officially joining their graduate program to research experimental cosmology. Page's story continues with his move to Princeton, where he not only advanced his research but also served as department head. Throughout the conversation, he reflects on his teaching approach, the challenge of fostering diversity in physics, and potential strategies to address it. This episode offers a glimpse into the life of a physicist who combines passion for discovery with a commitment to education and inclusivity.</p>
+    ]]>
+            </description>
+            <itunes:summary>
+                <![CDATA[ 
+        <p>Princeton physics, Observational Cosmology, Teaching.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Professor Lyman Page, currently the James S. McDonnell Distinguished University Professor of Physics at Princeton University. </p>
+
+      <p> We talk about his fascination with physics as an undergrad and his unique path to academia, which included a period sailing and self-study after his undergraduate studies. This adventure led him to MIT, where he began working for free before officially joining their graduate program to research experimental cosmology. Page's story continues with his move to Princeton, where he not only advanced his research but also served as department head. Throughout the conversation, he reflects on his teaching approach, the challenge of fostering diversity in physics, and potential strategies to address it. This episode offers a glimpse into the life of a physicist who combines passion for discovery with a commitment to education and inclusivity.</p>
+     ]]>
+            </itunes:summary>
+            <content:encoded>
+                <![CDATA[ 
+        <p>Princeton physics, Observational Cosmology, Teaching.</p>
+
+      <p>__</p>
+
+      <p>A conversation with Professor Lyman Page, currently the James S. McDonnell Distinguished University Professor of Physics at Princeton University. </p>
+
+      <p> We talk about his fascination with physics as an undergrad and his unique path to academia, which included a period sailing and self-study after his undergraduate studies. This adventure led him to MIT, where he began working for free before officially joining their graduate program to research experimental cosmology. Page's story continues with his move to Princeton, where he not only advanced his research but also served as department head. Throughout the conversation, he reflects on his teaching approach, the challenge of fostering diversity in physics, and potential strategies to address it. This episode offers a glimpse into the life of a physicist who combines passion for discovery with a commitment to education and inclusivity.</p>
+    ]]>
+            </content:encoded>
             <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
             <enclosure url="https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3" type="audio/mpeg" length="51716356" />
             <itunes:duration>1:41:22</itunes:duration>
-            <itunes:keywords>Princeton physics, Observational Cosmology, Lyman Page</itunes:keywords>
             <guid>https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3</guid>
-            <link>https://bradbachu.github.io/</link>
-        </item>
-        
-        <item>
-            <title>E4: Rachel Katz PhD: From Lab to Literature</title>
-            <itunes:title>E4: Rachel Katz PhD: From Lab to Literature</itunes:title>
-            <description><![CDATA[<p>In this episode, we feature Dr. Rachel Katz, a senior scientist at Pfizer, published romance author, actor, and dancer. Rachel is a great friend I made at MIT. Despite a demanding academic path in biomedical engineering, she excelled in numerous extracurricular activities, including research, dancing, acting, and sorority involvement. Her success in diverse areas is a recurring theme, exemplified by earning a PhD from Duke University while becoming a published romance author. We explore her journey through public school, her Johns Hopkins summer program, and the encouragement to apply to top universities. Rachel shares her decision-making process in choosing MIT over Harvard and Yale and offers advice on getting into MIT. She reflects on balancing multiple activities at MIT, her graduate school experiences, and the challenges minorities face in academia and STEM. Rachel discusses considering a move to industry for better work-life balance and her journey to becoming a published romance author. Throughout, her identity as a Black Jewish woman provides a unique perspective on her experiences.</p>]]></description>
-            <itunes:summary><![CDATA[<p>In this episode, we feature Dr. Rachel Katz, a senior scientist at Pfizer, published romance author, actor, and dancer. Rachel is a great friend I made at MIT. Despite a demanding academic path in biomedical engineering, she excelled in numerous extracurricular activities, including research, dancing, acting, and sorority involvement. Her success in diverse areas is a recurring theme, exemplified by earning a PhD from Duke University while becoming a published romance author. We explore her journey through public school, her Johns Hopkins summer program, and the encouragement to apply to top universities. Rachel shares her decision-making process in choosing MIT over Harvard and Yale and offers advice on getting into MIT. She reflects on balancing multiple activities at MIT, her graduate school experiences, and the challenges minorities face in academia and STEM. Rachel discusses considering a move to industry for better work-life balance and her journey to becoming a published romance author. Throughout, her identity as a Black Jewish woman provides a unique perspective on her experiences.</p>]]></itunes:summary>
-            <content:encoded><![CDATA[<p>In this episode, we feature Dr. Rachel Katz, a senior scientist at Pfizer, published romance author, actor, and dancer. Rachel is a great friend I made at MIT. Despite a demanding academic path in biomedical engineering, she excelled in numerous extracurricular activities, including research, dancing, acting, and sorority involvement. Her success in diverse areas is a recurring theme, exemplified by earning a PhD from Duke University while becoming a published romance author. We explore her journey through public school, her Johns Hopkins summer program, and the encouragement to apply to top universities. Rachel shares her decision-making process in choosing MIT over Harvard and Yale and offers advice on getting into MIT. She reflects on balancing multiple activities at MIT, her graduate school experiences, and the challenges minorities face in academia and STEM. Rachel discusses considering a move to industry for better work-life balance and her journey to becoming a published romance author. Throughout, her identity as a Black Jewish woman provides a unique perspective on her experiences.</p>]]></content:encoded>
-            <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
-            <enclosure url="https://archive.org/download/brad-bachu-rachel-katz-2/brad-bachu-rachel-katz-2_vbr.m3u" type="audio/mpeg" length="110100480" />
-            <itunes:duration>2:05:24</itunes:duration>
-            <itunes:keywords>Rachel Katz, biomedical engineering, romance author, MIT, Duke University</itunes:keywords>
-            <guid>https://ia601407.us.archive.org/34/items/brad-bachu-rachel-katz/BradBachu_RachelKatz.mp3</guid>
             <link>https://bradbachu.github.io/</link>
         </item>
     </channel>
