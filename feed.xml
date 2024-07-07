@@ -63,7 +63,7 @@
             <link>https://bradbachu.github.io/</link>
         </item>
         <item>
-            <title>E2: Diego Huyke: More than an Engineer</title>
+            <title>E2: Diego Huyke PhD: More than an Engineer</title>
             <itunes:title>E2: Diego Huyke: More than an Engineer</itunes:title>
             <description>
                 <![CDATA[ 
@@ -105,7 +105,7 @@
             <link>https://bradbachu.github.io/</link>
         </item>
         <item>
-            <title>E3: Lyman Page: The Journey of a Cosmic Explorer</title>
+            <title>E3: Professor Lyman Page: The Journey of a Cosmic Explorer</title>
             <itunes:title>E3: Lyman Page: The Journey of a Cosmic Explorer</itunes:title>
             <description>
                 <![CDATA[ 
@@ -144,6 +144,49 @@
             <enclosure url="https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3" type="audio/mpeg" length="51716356" />
             <itunes:duration>1:41:22</itunes:duration>
             <guid>https://ia600200.us.archive.org/31/items/brad-bachu-lyman-page/BradBachu_LymanPage.mp3</guid>
+            <link>https://bradbachu.github.io/</link>
+        </item>
+        <item>
+            <title>E4: Rachel Katz PhD: From Lab to Literature</title>
+            <itunes:title>E4: Rachel Katz PhD: From Lab to Literature</itunes:title>
+            <description>
+                <![CDATA[ 
+        <p>MIT and Duke University, Biomedical Engineering, Publishing Romance.</p>
+
+      <p></p>
+
+      <p>In this episode, we feature Dr. Rachel Katz, a senior scientist at Pfizer, published romance author, actor, and dancer. </p>
+
+      <p> Rachel is a great friend I made at MIT. Despite a demanding academic path in biomedical engineering, she excelled in numerous extracurricular activities, including research, dancing, acting, and sorority involvement. Her success in diverse areas is a recurring theme, exemplified by earning a PhD from Duke University while becoming a published romance author. We explore her journey through public school, her Johns Hopkins summer program, and the encouragement to apply to top universities. Rachel shares her decision-making process in choosing MIT over Harvard and Yale and offers advice on getting into MIT. She reflects on balancing multiple activities at MIT, her graduate school experiences, and the challenges minorities face in academia and STEM. Rachel discusses considering a move to industry for better work-life balance and her journey to becoming a published romance author. Throughout, her identity as a Black Jewish woman provides a unique perspective on her experiences.</p>
+    ]]>
+            </description>
+            <itunes:summary>
+                <![CDATA[ 
+        <p>MIT and Duke University, Biomedical Engineering, Publishing Romance.</p>
+
+      <p></p>
+
+      <p>In this episode, we feature Dr. Rachel Katz, a senior scientist at Pfizer, published romance author, actor, and dancer. </p>
+
+      <p> Rachel is a great friend I made at MIT. Despite a demanding academic path in biomedical engineering, she excelled in numerous extracurricular activities, including research, dancing, acting, and sorority involvement. Her success in diverse areas is a recurring theme, exemplified by earning a PhD from Duke University while becoming a published romance author. We explore her journey through public school, her Johns Hopkins summer program, and the encouragement to apply to top universities. Rachel shares her decision-making process in choosing MIT over Harvard and Yale and offers advice on getting into MIT. She reflects on balancing multiple activities at MIT, her graduate school experiences, and the challenges minorities face in academia and STEM. Rachel discusses considering a move to industry for better work-life balance and her journey to becoming a published romance author. Throughout, her identity as a Black Jewish woman provides a unique perspective on her experiences.</p>
+     ]]>
+            </itunes:summary>
+            <content:encoded>
+                <![CDATA[ 
+        <p>MIT and Duke University, Biomedical Engineering, Publishing Romance.</p>
+
+      <p></p>
+
+      <p>In this episode, we feature Dr. Rachel Katz, a senior scientist at Pfizer, published romance author, actor, and dancer. </p>
+
+      <p> Rachel is a great friend I made at MIT. Despite a demanding academic path in biomedical engineering, she excelled in numerous extracurricular activities, including research, dancing, acting, and sorority involvement. Her success in diverse areas is a recurring theme, exemplified by earning a PhD from Duke University while becoming a published romance author. We explore her journey through public school, her Johns Hopkins summer program, and the encouragement to apply to top universities. Rachel shares her decision-making process in choosing MIT over Harvard and Yale and offers advice on getting into MIT. She reflects on balancing multiple activities at MIT, her graduate school experiences, and the challenges minorities face in academia and STEM. Rachel discusses considering a move to industry for better work-life balance and her journey to becoming a published romance author. Throughout, her identity as a Black Jewish woman provides a unique perspective on her experiences.</p>
+    ]]>
+            </content:encoded>
+            <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+            <enclosure url="https://archive.org/download/brad-bachu-rachel-katz-2/brad-bachu-rachel-katz-2_vbr.mp3" type="audio/mpeg" length="110100480" />
+
+            <itunes:duration>2:05:05</itunes:duration>
+            <guid>https://archive.org/download/brad-bachu-rachel-katz-2/brad-bachu-rachel-katz-2_vbr.mp3</guid>
             <link>https://bradbachu.github.io/</link>
         </item>
     </channel>
